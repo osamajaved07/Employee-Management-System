@@ -1,12 +1,41 @@
-# React + Vite
+# 🧑‍💼 Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive web-based Employee Management System built with **React JS** and **Tailwind CSS**. This project includes user authentication and separate dashboards for **Admin** and **Employee**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔐 **Login Authentication**
+- 🧑‍💼 **Employee Dashboard**
+  - View assigned tasks
+- 🧑‍💻 **Admin Dashboard**
+  - Add/Edit/Delete employees
+  - Assign tasks
+  - View all employee details
+- 🌐 **Responsive UI** using Tailwind CSS
+- 🔄 **Routing** between different dashboards
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Screen
+![Login](https://github.com/user-attachments/assets/4ba0bb39-8279-494e-8f71-d8193902158d)
+
+### 👥 Employee Dashboard
+![Employee](https://github.com/user-attachments/assets/67e59270-b85e-45d0-836f-c2305b227899)
+
+
+### 🧑‍💻 Admin Dashboard
+![Admin](https://github.com/user-attachments/assets/c3286c9a-e5c2-4ef8-9ae5-78002b109e52)
+
+---
+
+## 📦 Tech Stack
+
+- React JS
+- Tailwind CSS
+- React Router DOM
+
+---
